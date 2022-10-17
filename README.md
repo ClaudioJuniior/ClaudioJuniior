@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/claudiiorodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
-- 👋 I’m @ClaudioJuniior, 25 years old, from São José dos Campos - São Paulo
+- 👋 I’m @ClaudioJuniior, 25 years old, from São José dos Campos - São Paulo. 
  I am graduated in International Relations and now studying data analytics.
 - 👀 I’m interested in opportunities to learn and grow as Data Scientist.
 - 🌱 I’m currently learning Python, SQL, Machine learning and Data Visualization. 
